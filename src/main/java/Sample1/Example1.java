@@ -1,4 +1,4 @@
-package Sample1;
+ package Sample1;
 
 public class Example1 {
 
@@ -6,6 +6,7 @@ public class Example1 {
 	{
 		System.out.println("sai");
 		System.out.println("baba");
+		System.out.println("Hey");
 
 	}
 
